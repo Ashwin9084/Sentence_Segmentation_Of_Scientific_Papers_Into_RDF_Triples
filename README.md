@@ -35,3 +35,6 @@ This project was developed by [Ashwin Nair](https://github.com/Ashwin9084).
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Refrences
+[1] https://github.com/tdpetrou/RDF-Triple-API <br />
